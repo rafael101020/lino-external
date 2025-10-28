@@ -1,7 +1,7 @@
 {
-  "status": "nao",
-  "titulo": "Rafael Menu - Autorizado",
-  "mensagem": "Sistema funcionando normalmente!",
+  "status": "sim",
+  "titulo": "Acesso Nao Autorizado",
+  "mensagem": "Este programa foi desativado pelo servidor!",
   "versao": "2.0",
   "ultima_atualizacao": "2025-10-28 17:48:03"
 }
